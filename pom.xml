@@ -66,7 +66,9 @@
         </dependencies>
     </dependencyManagement>
 
-
+    <modules>
+        <module>cloud-api</module>
+    </modules>
     <packaging>pom</packaging>
 
     <build>
