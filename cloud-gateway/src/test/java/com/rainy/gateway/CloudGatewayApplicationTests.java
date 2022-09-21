@@ -1,10 +1,10 @@
-package com.rainy.visualizationcloud.system.api;
+package com.rainy.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CloudApiSystemApplicationTests {
+class CloudGatewayApplicationTests {
 
     @Test
     void contextLoads() {

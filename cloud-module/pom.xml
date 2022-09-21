@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>cloud-api</artifactId>
+    <artifactId>cloud-module</artifactId>
     <packaging>pom</packaging>
 
-    <description>visualization-cloud-api系统接口</description>
+    <description>cloud-module业务模块</description>
 
 </project>
